@@ -1,0 +1,12 @@
+Date: 2024-03-22
+Currency Code: 美元
+Exchange Rate: 724.82
+Date: 2024-03-12
+Currency Code: 美元
+Exchange Rate: 719.86
+Date: 2024-03-17
+Currency Code: 林吉特
+Exchange Rate: 153.91
+Date: 2021-12-31
+Currency Code: 美元
+Exchange Rate: 636.99
